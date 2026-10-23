@@ -1,4 +1,4 @@
-# Project 3 — Profitability Analytics
+﻿# Retail Profitability Analysis
 
 ## Overview
 
@@ -92,7 +92,7 @@ This scenario suggests that tighter discount controls could materially improve p
 
 ### 1. Profitability Overview
 
-![Profitability Overview](project3_page1_profitability_overview.png)
+![Profitability Overview](profitability_overview.png)
 
 Includes:
 
@@ -106,7 +106,7 @@ Includes:
 
 ### 2. Trend & Variance
 
-![Trend and Variance](project3_page2_trend_variance.png)
+![Trend and Variance](trend_variance.png)
 
 Includes:
 
@@ -115,7 +115,7 @@ Includes:
 
 ### 3. Contribution & What-If
 
-![Contribution and What-If](project3_page3_contribution_whatif.png)
+![Contribution and What-If](contribution_whatif.png)
 
 Includes:
 
@@ -129,12 +129,12 @@ Includes:
 ## Project Structure
 
 ```text
-Project3_Profitability/
-├── Project3_Profitability.pbix
+retail-profitability-analysis/
+├── Retail_Profitability_Analysis.pbix
 ├── README.md
-├── project3_page1_profitability_overview.png
-├── project3_page2_trend_variance.png
-└── project3_page3_contribution_whatif.png
+├── profitability_overview.png
+├── trend_variance.png
+└── contribution_whatif.png
 ```
 
 ## Portfolio Summary
@@ -149,3 +149,4 @@ This project demonstrates:
 - Time-series and variance analysis
 - What-if scenario modeling
 - Business interpretation and recommendations
+
